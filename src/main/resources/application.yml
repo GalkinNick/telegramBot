@@ -1,9 +1,10 @@
 telegram:
   bot:
 #    не вписывайте данные, так как можете отправить в публичный репозиторий
+#    8464430657:AAHSP6GhumVBwdJVNO8492GAfnlS4TMgeao
 #    используйте переменные среды для установки значений
-    username: ${BOT_NAME}
-    token: ${BOT_TOKEN}
+    username: Crypto_appLesson_bot # ${BOT_NAME}
+    token: 8464430657:AAHSP6GhumVBwdJVNO8492GAfnlS4TMgeao #${BOT_TOKEN}
     notify:
       delay:
         value: 10
